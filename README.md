@@ -1,4 +1,4 @@
- #notebook pns A
+ # Notebook Polytech Nice Sophia A
 
  original repo : https://github.com/pin3da/notebook-generator
 
